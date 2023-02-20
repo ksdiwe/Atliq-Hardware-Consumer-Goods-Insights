@@ -62,7 +62,7 @@ Hence, he decided to conduct a SQL challenge which will help him understand both
 |![First Image](https://user-images.githubusercontent.com/20944950/220162029-daa1cf2b-8ffa-48bf-8a0d-44d7064eb5df.png)|
 
 
-
+[Video Presentation](https://clipchamp.com/watch/xwEublbOArJ)
 
 
 
