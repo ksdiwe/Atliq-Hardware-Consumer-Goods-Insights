@@ -9,7 +9,7 @@ Atliq Hardwares (imaginary company) is one of the leading computer hardware prod
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. 
 Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
 
-[Video Presentation](https://clipchamp.com/watch/xwEublbOArJ)
+[Video Presentation](https://drive.google.com/file/d/1O7RkBvlqXQOF-m3pyqUYkZcub-KPQpy2/view?usp=sharing)
 # Product Growth Comparison: 2020 vs 2021
 
 |Visual|Insights|
